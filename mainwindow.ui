@@ -26,8 +26,17 @@
       <height>24</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Bahnschrift SemiBold</family>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: qlineargradient(spread:reflect, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(144, 225, 255, 255), stop:1 rgba(255, 255, 255, 255));</string>
+    </property>
     <property name="text">
-     <string>Menswear</string>
+     <string>Mango Man</string>
     </property>
    </widget>
    <widget class="QPushButton" name="infoButton">
@@ -39,8 +48,17 @@
       <height>24</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Bahnschrift SemiBold</family>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: qlineargradient(spread:reflect, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(197, 197, 197, 255), stop:1 rgba(255, 255, 255, 255));</string>
+    </property>
     <property name="text">
-     <string>Informatics</string>
+     <string>MediaMarkt</string>
     </property>
    </widget>
    <widget class="QPushButton" name="furButton">
@@ -52,8 +70,17 @@
       <height>24</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Bahnschrift SemiBold</family>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: qlineargradient(spread:reflect, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(255, 219, 73, 255), stop:1 rgba(255, 255, 255, 255));</string>
+    </property>
     <property name="text">
-     <string>Furniture</string>
+     <string>IKEA</string>
     </property>
    </widget>
    <widget class="QPushButton" name="woButton">
@@ -65,8 +92,17 @@
       <height>24</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Bahnschrift SemiBold</family>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: qlineargradient(spread:reflect, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(255, 170, 255, 255), stop:1 rgba(255, 255, 255, 255));</string>
+    </property>
     <property name="text">
-     <string>Womenswear</string>
+     <string>GirlsOnly</string>
     </property>
    </widget>
    <widget class="QLabel" name="label">
@@ -80,15 +116,16 @@
     </property>
     <property name="font">
      <font>
-      <family>OCR A Extended</family>
-      <pointsize>72</pointsize>
+      <family>Engravers MT</family>
+      <pointsize>28</pointsize>
+      <italic>false</italic>
      </font>
     </property>
     <property name="styleSheet">
      <string notr="true">border-color: rgb(255, 255, 255);</string>
     </property>
     <property name="text">
-     <string>Inventory</string>
+     <string>Central inventory system</string>
     </property>
     <property name="alignment">
      <set>Qt::AlignCenter</set>
@@ -103,8 +140,17 @@
       <height>24</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>Bahnschrift SemiBold</family>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: qlineargradient(spread:reflect, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(185, 255, 160, 255), stop:1 rgba(255, 255, 255, 255));</string>
+    </property>
     <property name="text">
-     <string>Sports</string>
+     <string>Decathlon</string>
     </property>
    </widget>
   </widget>
